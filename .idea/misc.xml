@@ -5,9 +5,14 @@
       <map>
         <entry key="..\:/projects/Chat Application/app/src/main/res/drawable/btn_background.xml" value="0.2703125" />
         <entry key="..\:/projects/Chat Application/app/src/main/res/drawable/edt_background.xml" value="0.2703125" />
+        <entry key="..\:/projects/Chat Application/app/src/main/res/layout/activity_chat.xml" value="0.25416666666666665" />
         <entry key="..\:/projects/Chat Application/app/src/main/res/layout/activity_log_in.xml" value="0.25416666666666665" />
         <entry key="..\:/projects/Chat Application/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/projects/Chat Application/app/src/main/res/layout/activity_sign_up.xml" value="0.25416666666666665" />
+        <entry key="..\:/projects/Chat Application/app/src/main/res/layout/receive.xml" value="0.25416666666666665" />
+        <entry key="..\:/projects/Chat Application/app/src/main/res/layout/sent.xml" value="0.25416666666666665" />
+        <entry key="..\:/projects/Chat Application/app/src/main/res/layout/user_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/projects/Chat Application/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
